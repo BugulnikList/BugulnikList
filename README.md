@@ -23,8 +23,7 @@
 
 ### Для связи
 <a href= "https://t.me/Bugulnik">
-    <img src="https:https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Telegram_logo.svg" width="40" height="40" alt="telegram"/></a>
-<a href= "mail:bugulnik@list.ru">
-    <img src="https://kassa.bifit.com/wiki/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9F%D0%BE%D1%87%D1%82%D0%B0_%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0.png" width="40" height="34" alt="gmail"/></a>
+   
+<a href= "bugulnik@list.ru">
 </p>
 
