@@ -22,8 +22,8 @@
 </p>
 
 ### Для связи
-<a href= "https://t.me/Bugulnik">Tg
+<a href= "https://t.me/Bugulnik">tg @Bugulnik
    
-<a href= "bugulnik@list.ru">mail
+<a href= "bugulnik@list.ru">mail bugulnik@list.ru
 </p>
 
