@@ -1,16 +1,30 @@
 ## Hi there 👋
+Меня зовут Ирина и я инженер по тестированию
+Я прошла курс профессиональной переподготовки по специальности "Инженер по тестированию Plus" от Яндекс.Практикума
 
-<!--
-**BugulnikList/BugulnikList** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Здесь можно ознакомиться с примерами моих работ
+* 🌎 <a href= "https://github.com/BugulnikList/Yandex.Maps">Yandex-Maps Web-Application
+* 🛒 <a href= "https://github.com/BugulnikList/yandex_api_stand_tests">Yandex-Shop Web-Service
+* 🛴 <a href= "https://github.com/BugulnikList/Yandex.Samokat">Yandex-Scooter Web & Mob Application
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Инструменты
+<p align="left"> 
+   <a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/885/629/png-transparent-miro-hd-logo-thumbnail.png" width="36" height="36" alt="Miro" /></a>
+   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/240/1015/png-transparent-g-suite-google-docs-google-angle-rectangle-logo.png" width="36" height="36" alt="Google Sheets" /></a>
+  <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" width="36" height="36" alt="Youtrack" /></a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/800px-Android_Studio_icon_%282023%29.svg.png" width="36" height="36" alt="Android_Studio" /></a>
+   <a><img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" width="36" height="36" alt="Devtools" /></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" width="36" height="36" alt="Postman" /></a>
+  <a href="https://www.charlesproxy.com/" target="_blank" rel="noreferrer"><img src="https://davidwalsh.name/demo/charlesproxyicon.svg" width="36" height="36" alt="Charles" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
+
+### Для связи
+<a href= "https://t.me/Bugulnik">
+    <img src="https:https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Telegram_logo.svg" width="40" height="40" alt="telegram"/></a>
+<a href= "mail:bugulnik@list.ru">
+    <img src="https://kassa.bifit.com/wiki/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9F%D0%BE%D1%87%D1%82%D0%B0_%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0.png" width="40" height="34" alt="gmail"/></a>
+</p>
+
